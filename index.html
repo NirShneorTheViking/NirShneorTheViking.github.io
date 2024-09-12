@@ -2,8 +2,15 @@
 <html>
     
 <body>
-    <div id="navigation"></div>
-    <script src="nav.js"></script>
+    <div id="nav-placeholder">
+    </div>
+    
+    <script>
+    $(function(){
+      $("#nav-placeholder").load("nav.html");
+    });
+    </script>
+    
     <!-- Page Content -->
     <div class="container">
 
