@@ -30,4 +30,6 @@ img {
 }
 footer {
   text-align: left;
+  margin: 0;
+  padding: 0;
 }
