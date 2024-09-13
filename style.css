@@ -3,14 +3,10 @@ li {
   font-family: "Monaco", monospace;
 }
 iframe {
-  height:400px;
-  width:150px;
+  width:20%;
   border:none;
   overflow:hidden;
   display:flex;
-}
-nav {
-  font-size: 14px;
 }
 h1 {
   text-align: center;
@@ -146,7 +142,7 @@ footer {
 #menu li
 {
   padding: 10px 0;
-  font-size: 22px;
+  font-size: 14px;
 }
 #menuToggle input:checked ~ ul
 {
