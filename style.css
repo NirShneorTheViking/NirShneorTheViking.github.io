@@ -24,6 +24,7 @@ div {
 img {
     max-width: 70%;
     max-height: 70%;
+    padding-right: 20%;
 }
 footer {
   text-align: left;
