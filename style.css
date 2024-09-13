@@ -13,7 +13,10 @@ iframe {
   overflow:hidden;
 }
 #smalldiv {
-  height: 30px;
+  height: 50px;
+}
+#norwaynav {
+  width: 100%
 }
 h1 {
   text-align: center;
