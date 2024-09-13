@@ -5,6 +5,7 @@ ul {
 }
 li {
   display: inline;
+  font-family: "Monaco", monospace;
 }
 iframe {
   height:30px;
