@@ -3,8 +3,8 @@ li {
   font-family: "Monaco", monospace;
 }
 iframe {
-  height:30px;
-  width:200%;
+/*   height:30px;
+  width:200%; */
   border:none;
   overflow:hidden;
 }
