@@ -126,10 +126,10 @@ footer {
 #menu
 {
   position: absolute;
-  width: 300px;
+  width: 70px;
   margin: -100px 0 0 -50px;
   padding: 50px;
-  padding-top: 125px;
+  padding-top: 80px;
   
   background: #ededed;
   list-style-type: none;
