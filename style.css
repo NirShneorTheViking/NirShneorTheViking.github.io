@@ -12,8 +12,8 @@ iframe {
   border:none;
   overflow:hidden;
 }
-#footer {
-  height: 10%;
+#smalldiv {
+  height: 30px;
 }
 h1 {
   text-align: center;
