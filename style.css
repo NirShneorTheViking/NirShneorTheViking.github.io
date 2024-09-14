@@ -12,9 +12,6 @@ iframe {
   border:none;
   overflow:hidden;
 }
-#smalldiv {
-  height: 50px;
-}
 #norwaynav {
   width: 100%
 }
@@ -167,6 +164,7 @@ footer {
   overflow: hidden;
   max-width: 70%;
   margin: auto;
+  height: 50px;
 }
 
 .bottomnav a {
