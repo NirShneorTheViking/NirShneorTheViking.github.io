@@ -170,7 +170,8 @@ footer {
 
 .bottomnav a {
   float: left;
-  color: #f2f2f2;
+  color: #232323;
+  transition: color 0.3s ease;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -180,5 +181,5 @@ footer {
 
 .bottomnav a:hover {
   background-color: #ddd;
-  color: black;
+  color: tomato;
 }
