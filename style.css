@@ -170,7 +170,7 @@ footer {
 }
 
 .bottomnav a {
-  float: left;
+  float: center;
   color: #232323;
   transition: color 0.3s ease;
   text-align: center;
