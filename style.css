@@ -162,14 +162,14 @@ footer {
 .bottomnav {
   background-color: #cdcdcd;
   overflow: hidden;
-  max-width: 70%;
+  max-width: 80%;
   margin: auto;
   height: 50px;
 }
 
 .bottomnav a {
   margin: auto;
-  padding-top: 10px;
+  padding-top: 20px;
   float: center;
   color: #232323;
   transition: color 0.3s ease;
