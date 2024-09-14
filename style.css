@@ -165,6 +165,7 @@ footer {
 .bottomnav {
   background-color: #cdcdcd;
   overflow: hidden;
+  max-width: 70%;
 }
 
 .bottomnav a {
