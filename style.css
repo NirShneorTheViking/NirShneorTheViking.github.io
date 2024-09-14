@@ -168,7 +168,7 @@ footer {
 }
 
 .bottomnav a {
-  margin-top: 10px;
+  padding-top: 10px;
   float: center;
   color: #232323;
   transition: color 0.3s ease;
